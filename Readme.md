@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Implement the multi-row editing functionality with a multi-page grid bound dynamically
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1318/)**
+<!-- run online end -->
 
 
 <p><strong>See Also:</strong><br />
