@@ -16,7 +16,6 @@
 
 
 <p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E158">ASPxGridView - Multi-Row Editing</a><br />
 <a href="https://www.devexpress.com/Support/Center/p/E324">How to implement the multi-row editing feature in the ASPxGridView</a><br />
 <a href="https://www.devexpress.com/Support/Center/p/E1468">Custom client-side logic implementation in the grid with multi-row editing</a><br />
 <a href="https://www.devexpress.com/Support/Center/p/E2008">How to store template control values when the ASPxTreeList has nodes collapsed</a> - a similar scenario<br />
